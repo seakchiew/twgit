@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-SHARE_DIR="/usr/local/share/twgit"
-BIN_DIR="/usr/local/bin"
+SHARE_DIR="/opt/homebrew/twgit"
+BIN_DIR="/opt/homebrew/bin"
 ROOT_DIR=$(pwd)
 CONF_DIR="${ROOT_DIR}/conf"
 INSTALL_DIR="${ROOT_DIR}/install"
